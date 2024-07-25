@@ -1,0 +1,582 @@
+[
+  {
+    "id": "1",
+    "path": "/nav",
+    "sections": [
+      {
+        "id": "1-1",
+        "blocks": [
+          {
+            "id": "box-id-701132353",
+            "x": 0,
+            "y": 0,
+            "width": 2884,
+            "height": 54,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[1]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgb(148, 0, 211)",
+            "mapping": "header",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "path": "/en-us/power-platform/products/power-pages",
+    "sections": [
+      {
+        "id": "2-1",
+        "blocks": [
+          {
+            "id": "box-id--13838530",
+            "x": 0,
+            "y": 56,
+            "width": 2884,
+            "height": 596,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[2]",
+            "layout": {
+              "numCols": 1,
+              "numRows": 1
+            },
+            "color": "rgba(75, 0, 130, 0.4)",
+            "mapping": "hero",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id--1409472599",
+            "x": 0,
+            "y": 652,
+            "width": 2884,
+            "height": 56,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[1]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgba(75, 0, 130, 0.3)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      },
+      {
+        "id": "2-2",
+        "blocks": [
+          {
+            "id": "box-id-580046717",
+            "x": 770,
+            "y": 804,
+            "width": 1344,
+            "height": 72,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[1]",
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"Features\")/div[@class=\"row\"]/div[@class=\"col\"]/div[@class=\"layout section-master__layout section-master--layout-cols-2\"]/div[@class=\"layout__col\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "id(\"Features\")/div[@class=\"row\"]/div[@class=\"col\"]/div[@class=\"layout section-master__layout section-master--layout-cols-2\"]/div[@class=\"layout__col\"]"
+              }
+            ],
+            "color": "rgba(75, 0, 130, 0.1)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id-832552540",
+            "x": 778,
+            "y": 924,
+            "width": 1320,
+            "height": 40,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgba(75, 0, 130, 0.1)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id-832552571",
+            "x": 770,
+            "y": 964,
+            "width": 1336,
+            "height": 678,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]",
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]",
+                "xpathWithDetails": "id(\"accordion-container-accordion-oc787b\")"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[2]/div[1]/div[2]/div[2]",
+                "xpathWithDetails": "id(\"accordion-oc787b-item_1690872940042\")/div[@class=\"ocr-accordion-item__body\"]/div[@class=\"media slide-in-bottom-2 img-fluid multi-feature-feature\"]"
+              }
+            ],
+            "color": "rgba(75, 0, 130, 0.1)",
+            "mapping": "columns",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      },
+      {
+        "id": "2-3",
+        "blocks": [
+          {
+            "id": "box-id--1737941923",
+            "x": 770,
+            "y": 1834,
+            "width": 1344,
+            "height": 80,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[2]/div[2]/div[1]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgba(75, 0, 130, 0.1)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id--1737941892",
+            "x": 770,
+            "y": 1962,
+            "width": 1336,
+            "height": 542,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[2]/div[2]/div[2]",
+            "layout": {
+              "numCols": 3,
+              "numRows": 2
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"Use-cases\")/div[@class=\"row section-master__slot\"]/div[@class=\"col\"]/div[@class=\"stats tabs\"]/div[@class=\"stats layout layout--cols-3\"]/div[@class=\"stats__stat layout__col\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "id(\"Use-cases\")/div[@class=\"row section-master__slot\"]/div[@class=\"col\"]/div[@class=\"stats tabs\"]/div[@class=\"stats layout layout--cols-3\"]/div[@class=\"stats__stat layout__col\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[3]",
+                "xpathWithDetails": "id(\"Use-cases\")/div[@class=\"row section-master__slot\"]/div[@class=\"col\"]/div[@class=\"stats tabs\"]/div[@class=\"stats layout layout--cols-3\"]/div[@class=\"stats__stat layout__col\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"Use-cases\")/div[@class=\"row section-master__slot\"]/div[@class=\"col\"]/div[@class=\"stats tabs\"]/div[@class=\"stats layout layout--cols-3\"]/div[@class=\"stats__stat layout__col\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]",
+                "xpathWithDetails": "id(\"Use-cases\")/div[@class=\"row section-master__slot\"]/div[@class=\"col\"]/div[@class=\"stats tabs\"]/div[@class=\"stats layout layout--cols-3\"]/div[@class=\"stats__stat layout__col\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/div[3]",
+                "xpathWithDetails": "id(\"Use-cases\")/div[@class=\"row section-master__slot\"]/div[@class=\"col\"]/div[@class=\"stats tabs\"]/div[@class=\"stats layout layout--cols-3\"]/div[@class=\"stats__stat layout__col\"]"
+              }
+            ],
+            "color": "rgba(75, 0, 130, 0.1)",
+            "mapping": "columns",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      },
+      {
+        "id": "2-4",
+        "blocks": [
+          {
+            "id": "box-id-1535957019",
+            "x": 770,
+            "y": 2696,
+            "width": 1344,
+            "height": 196,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[4]/div[2]/div[1]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgba(75, 0, 130, 0.1)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id-1535957050",
+            "x": 770,
+            "y": 2940,
+            "width": 1336,
+            "height": 451,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[4]/div[2]/div[2]",
+            "layout": {
+              "numCols": 3,
+              "numRows": 1
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[4]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"Pricing\")/div[@class=\"row section-master__slot\"]/div[@class=\"col\"]/div[@class=\"sku-cards tabs\"]/div[@class=\"sku-cards layout layout--cols-3\"]/div[@class=\"sku-cards__card layout__col\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[4]/div[2]/div[2]/div[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "id(\"Pricing\")/div[@class=\"row section-master__slot\"]/div[@class=\"col\"]/div[@class=\"sku-cards tabs\"]/div[@class=\"sku-cards layout layout--cols-3\"]/div[@class=\"sku-cards__card layout__col\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[4]/div[2]/div[2]/div[1]/div[1]/div[1]/div[3]",
+                "xpathWithDetails": "id(\"Pricing\")/div[@class=\"row section-master__slot\"]/div[@class=\"col\"]/div[@class=\"sku-cards tabs\"]/div[@class=\"sku-cards layout layout--cols-3\"]/div[@class=\"sku-cards__card layout__col\"]"
+              }
+            ],
+            "color": "rgba(75, 0, 130, 0.1)",
+            "mapping": "columns",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {
+          "section-metadata-style": "text-center"
+        }
+      },
+      {
+        "id": "2-5",
+        "blocks": [
+          {
+            "id": "box-id--1714321126",
+            "x": 0,
+            "y": 3487,
+            "width": 2884,
+            "height": 444,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[5]/div[1]/div[1]/img[1]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgba(75, 0, 130, 0.1)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {
+          "section-metadata-style": "text-center"
+        }
+      },
+      {
+        "id": "2-6",
+        "blocks": [
+          {
+            "id": "box-id--1972624168",
+            "x": 770,
+            "y": 4027,
+            "width": 1344,
+            "height": 80,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[6]/div[1]/div[1]",
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"Customer-stories\")/div[@class=\"row\"]/div[@class=\"col\"]/div[@class=\"layout section-master__layout section-master--layout-cols-2\"]/div[@class=\"layout__col\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[6]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "id(\"Customer-stories\")/div[@class=\"row\"]/div[@class=\"col\"]/div[@class=\"layout section-master__layout section-master--layout-cols-2\"]/div[@class=\"layout__col\"]"
+              }
+            ],
+            "color": "rgba(75, 0, 130, 0.1)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id--207834239",
+            "x": 778,
+            "y": 4155,
+            "width": 1320,
+            "height": 795,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[6]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]",
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[6]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"carousel-occb7f-0\")/div[@class=\"testimonial-card bg--card-normal depth-4 rounded-l row m-0\"]/div[@class=\"testimonial-card__media order-md-1 col-6 col-md-6 col-lg-12\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[6]/div[1]/div[2]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "id(\"carousel-occb7f-0\")/div[@class=\"testimonial-card bg--card-normal depth-4 rounded-l row m-0\"]/div[@class=\"testimonial-card__content col-6 col-md-6 col-lg-12\"]"
+              }
+            ],
+            "color": "rgba(75, 0, 130, 0.1)",
+            "mapping": "columns",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      },
+      {
+        "id": "2-7",
+        "blocks": [
+          {
+            "id": "box-id-1317679150",
+            "x": 633,
+            "y": 5174,
+            "width": 1616,
+            "height": 72,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[7]/div[1]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgba(75, 0, 130, 0.1)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id--620487795",
+            "x": 630,
+            "y": 5294,
+            "width": 1615,
+            "height": 40,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[7]/div[2]/div[1]/div[1]/div[1]/div[1]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgba(75, 0, 130, 0.1)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id--620487764",
+            "x": -8,
+            "y": 5334,
+            "width": 2892,
+            "height": 678,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[7]/div[2]/div[1]/div[1]/div[1]/div[2]",
+            "layout": {
+              "numCols": 1,
+              "numRows": 2
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[7]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]",
+                "xpathWithDetails": "id(\"carousel-oc50e6-controls\")"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[7]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[2]",
+                "xpathWithDetails": "id(\"carousel-oc50e6\")/section[@class=\"carousel__section\"]/div[@class=\"carousel__window hide-scrollbar\"]"
+              }
+            ],
+            "color": "rgba(75, 0, 130, 0.1)",
+            "mapping": "carousel",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      },
+      {
+        "id": "2-8",
+        "blocks": [
+          {
+            "id": "box-id-768131471",
+            "x": 778,
+            "y": 6204,
+            "width": 1320,
+            "height": 52,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgba(75, 0, 130, 0.1)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id--1622027529",
+            "x": 778,
+            "y": 6304,
+            "width": 1320,
+            "height": 267,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgba(75, 0, 130, 0.1)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      },
+      {
+        "id": "2-9",
+        "blocks": [
+          {
+            "id": "box-id--943318186",
+            "x": 770,
+            "y": 6763,
+            "width": 1344,
+            "height": 48,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[8]/div[1]/div[2]/div[2]/div[1]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgba(75, 0, 130, 0.1)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id--943318155",
+            "x": 770,
+            "y": 6859,
+            "width": 1336,
+            "height": 332,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[8]/div[1]/div[2]/div[2]/div[2]",
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[8]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"section-master-ocf9d9\")/div[@class=\"row section-master__slot\"]/div[@class=\"col\"]/div[@class=\"three-up-cards layout layout--cols-2\"]/div[@class=\"three-up-cards__card layout__col\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[8]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "id(\"section-master-ocf9d9\")/div[@class=\"row section-master__slot\"]/div[@class=\"col\"]/div[@class=\"three-up-cards layout layout--cols-2\"]/div[@class=\"three-up-cards__card layout__col\"]"
+              }
+            ],
+            "color": "rgba(75, 0, 130, 0.1)",
+            "mapping": "columns",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      },
+      {
+        "id": "2-10",
+        "blocks": [
+          {
+            "id": "box-id-1301274836",
+            "x": 0,
+            "y": 7287,
+            "width": 2884,
+            "height": 589,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[8]/div[1]/div[3]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgba(75, 0, 130, 0.1)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id-1301274867",
+            "x": 0,
+            "y": 7876,
+            "width": 2884,
+            "height": 72,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[2]/main[1]/div[1]/div[1]/div[1]/div[4]/div[2]/div[8]/div[1]/div[4]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgba(75, 0, 130, 0.1)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "path": "/footer",
+    "sections": [
+      {
+        "id": "3-1",
+        "blocks": [
+          {
+            "id": "box-id-512495792",
+            "x": 497,
+            "y": 7996,
+            "width": 1888,
+            "height": 316,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/footer[1]/nav[1]",
+            "layout": {
+              "numCols": 6,
+              "numRows": 1
+            },
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"uhf-footer\")/nav[@class=\"c-uhff-nav\"]/div[@class=\"c-uhff-nav-row\"]/div[@class=\"c-uhff-nav-group\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[2]",
+                "xpathWithDetails": "id(\"uhf-footer\")/nav[@class=\"c-uhff-nav\"]/div[@class=\"c-uhff-nav-row\"]/div[@class=\"c-uhff-nav-group\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[1]/div[3]",
+                "xpathWithDetails": "id(\"uhf-footer\")/nav[@class=\"c-uhff-nav\"]/div[@class=\"c-uhff-nav-row\"]/div[@class=\"c-uhff-nav-group\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[1]",
+                "xpathWithDetails": "id(\"uhf-footer\")/nav[@class=\"c-uhff-nav\"]/div[@class=\"c-uhff-nav-row\"]/div[@class=\"c-uhff-nav-group\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[2]",
+                "xpathWithDetails": "id(\"uhf-footer\")/nav[@class=\"c-uhff-nav\"]/div[@class=\"c-uhff-nav-row\"]/div[@class=\"c-uhff-nav-group\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/footer[1]/nav[1]/div[2]/div[3]",
+                "xpathWithDetails": "id(\"uhf-footer\")/nav[@class=\"c-uhff-nav\"]/div[@class=\"c-uhff-nav-row\"]/div[@class=\"c-uhff-nav-group\"]"
+              }
+            ],
+            "color": "rgba(0, 0, 255, 0.4)",
+            "mapping": "columns",
+            "customBlockName": ""
+          },
+          {
+            "id": "box-id-233592450",
+            "x": 497,
+            "y": 8312,
+            "width": 1888,
+            "height": 90,
+            "xpath": "/html[1]/body[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/div[1]/footer[1]/div[1]",
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "color": "rgba(0, 0, 255, 0.4)",
+            "mapping": "defaultContent",
+            "customBlockName": ""
+          }
+        ],
+        "settings": {}
+      }
+    ]
+  }
+]
